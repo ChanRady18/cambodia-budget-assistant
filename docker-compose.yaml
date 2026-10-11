@@ -1,0 +1,58 @@
+services:
+  postgres:
+    image: postgres:17
+    environment:
+      POSTGRES_DB: ${POSTGRES_DB}
+      POSTGRES_USER: ${POSTGRES_USER}
+      POSTGRES_PASSWORD: ${POSTGRES_PASSWORD}
+    ports:
+      - "127.0.0.1:5433:5432"   # only reachable from this machine, not the internet
+    volumes:
+      - postgres_data:/var/lib/postgresql/data
+    healthcheck:
+      test: ["CMD-SHELL", "pg_isready -U ${POSTGRES_USER} -d ${POSTGRES_DB}"]
+      interval: 3s
+      retries: 20
+
+  grafana:
+    image: grafana/grafana
+    ports:
+      - "127.0.0.1:3000:3000"
+    volumes:
+      - grafana_data:/var/lib/grafana
+      - ./grafana/provisioning:/etc/grafana/provisioning:ro   # auto-adds the database connection
+      - ./grafana/dashboards:/var/lib/grafana/dashboards:ro   # auto-loads the dashboard
+    environment:
+      - GF_SECURITY_ADMIN_PASSWORD=${GRAFANA_PASSWORD:-admin}
+      - POSTGRES_DB=${POSTGRES_DB}
+      - POSTGRES_USER=${POSTGRES_USER}
+      - POSTGRES_PASSWORD=${POSTGRES_PASSWORD}
+    depends_on:
+      - postgres
+
+  streamlit:
+    build: .
+    environment:
+      - POSTGRES_HOST=postgres
+      - POSTGRES_DB=${POSTGRES_DB}
+      - POSTGRES_USER=${POSTGRES_USER}
+      - POSTGRES_PASSWORD=${POSTGRES_PASSWORD}
+      - OPENAI_API_KEY=${OPENAI_API_KEY}
+      - OPENAI_BASE_URL=${OPENAI_BASE_URL}
+      - LLM_MODEL=${LLM_MODEL}
+      - INPUT_TOKEN_PRICE=${INPUT_TOKEN_PRICE:-}
+      - OUTPUT_TOKEN_PRICE=${OUTPUT_TOKEN_PRICE:-}
+      - HIDE_SETTINGS=${HIDE_SETTINGS:-}
+      - APP_PASSWORD=${APP_PASSWORD:-}
+      - SHOW_HISTORY=${SHOW_HISTORY:-}
+      - ANSWER_MAX_TOKENS=${ANSWER_MAX_TOKENS:-1024}
+      - JUDGE_MAX_TOKENS=${JUDGE_MAX_TOKENS:-512}
+    ports:
+      - "8501:8501"
+    depends_on:
+      postgres:
+        condition: service_healthy
+
+volumes:
+  postgres_data:
+  grafana_data:

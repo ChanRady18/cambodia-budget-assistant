@@ -1,0 +1,466 @@
+[
+  {
+    "question": "What is the planned expenditure of Ministry of Education, Youth and Sport in 2023?",
+    "doc_id": "2023-moeys-budget-expenditure"
+  },
+  {
+    "question": "តើក្រសួងអប់រំ យុវជន និងកីឡាមានថវិកាគ្រោងចំណាយប៉ុន្មាន សម្រាប់ឆ្នាំ២០២៣?",
+    "doc_id": "2023-moeys-budget-expenditure"
+  },
+  {
+    "question": "What is the actual expenditure of Ministry of Education, Youth and Sport in 2023?",
+    "doc_id": "2023-moeys-settlement-expenditure"
+  },
+  {
+    "question": "តើក្រសួងអប់រំ យុវជន និងកីឡាមានចំណាយជាក់ស្តែងប៉ុន្មាន សម្រាប់ឆ្នាំ២០២៣?",
+    "doc_id": "2023-moeys-settlement-expenditure"
+  },
+  {
+    "question": "What is the planned expenditure of Ministry of Health in 2023?",
+    "doc_id": "2023-moh-budget-expenditure"
+  },
+  {
+    "question": "តើក្រសួងសុខាភិបាលមានថវិកាគ្រោងចំណាយប៉ុន្មាន សម្រាប់ឆ្នាំ២០២៣?",
+    "doc_id": "2023-moh-budget-expenditure"
+  },
+  {
+    "question": "What is the actual expenditure of Ministry of Health in 2023?",
+    "doc_id": "2023-moh-settlement-expenditure"
+  },
+  {
+    "question": "តើក្រសួងសុខាភិបាលមានចំណាយជាក់ស្តែងប៉ុន្មាន សម្រាប់ឆ្នាំ២០២៣?",
+    "doc_id": "2023-moh-settlement-expenditure"
+  },
+  {
+    "question": "What is the planned expenditure of Ministry of Public Works and Transport in 2023?",
+    "doc_id": "2023-mpwt-budget-expenditure"
+  },
+  {
+    "question": "តើក្រសួងសាធារណការ និងដឹកជញ្ជូនមានថវិកាគ្រោងចំណាយប៉ុន្មាន សម្រាប់ឆ្នាំ២០២៣?",
+    "doc_id": "2023-mpwt-budget-expenditure"
+  },
+  {
+    "question": "What is the planned revenue of Ministry of Public Works and Transport in 2023?",
+    "doc_id": "2023-mpwt-budget-revenue"
+  },
+  {
+    "question": "តើក្រសួងសាធារណការ និងដឹកជញ្ជូនមានចំណូលគ្រោងប្រមូលប៉ុន្មាន សម្រាប់ឆ្នាំ២០២៣?",
+    "doc_id": "2023-mpwt-budget-revenue"
+  },
+  {
+    "question": "What is the actual expenditure of Ministry of Public Works and Transport in 2023?",
+    "doc_id": "2023-mpwt-settlement-expenditure"
+  },
+  {
+    "question": "តើក្រសួងសាធារណការ និងដឹកជញ្ជូនមានចំណាយជាក់ស្តែងប៉ុន្មាន សម្រាប់ឆ្នាំ២០២៣?",
+    "doc_id": "2023-mpwt-settlement-expenditure"
+  },
+  {
+    "question": "What is the actual revenue collected of Ministry of Public Works and Transport in 2023?",
+    "doc_id": "2023-mpwt-settlement-revenue"
+  },
+  {
+    "question": "តើក្រសួងសាធារណការ និងដឹកជញ្ជូនមានចំណូលប្រមូលបានជាក់ស្តែងប៉ុន្មាន សម្រាប់ឆ្នាំ២០២៣?",
+    "doc_id": "2023-mpwt-settlement-revenue"
+  },
+  {
+    "question": "What is the planned expenditure of State budget (total) in 2023?",
+    "doc_id": "2023-state-budget-expenditure"
+  },
+  {
+    "question": "តើថវិការដ្ឋមានថវិកាគ្រោងចំណាយប៉ុន្មាន សម្រាប់ឆ្នាំ២០២៣?",
+    "doc_id": "2023-state-budget-expenditure"
+  },
+  {
+    "question": "What is the planned revenue of State budget (total) in 2023?",
+    "doc_id": "2023-state-budget-revenue"
+  },
+  {
+    "question": "តើថវិការដ្ឋមានចំណូលគ្រោងប្រមូលប៉ុន្មាន សម្រាប់ឆ្នាំ២០២៣?",
+    "doc_id": "2023-state-budget-revenue"
+  },
+  {
+    "question": "What is the actual expenditure of State budget (total) in 2023?",
+    "doc_id": "2023-state-settlement-expenditure"
+  },
+  {
+    "question": "តើថវិការដ្ឋមានចំណាយជាក់ស្តែងប៉ុន្មាន សម្រាប់ឆ្នាំ២០២៣?",
+    "doc_id": "2023-state-settlement-expenditure"
+  },
+  {
+    "question": "What is the actual revenue collected of State budget (total) in 2023?",
+    "doc_id": "2023-state-settlement-revenue"
+  },
+  {
+    "question": "តើថវិការដ្ឋមានចំណូលប្រមូលបានជាក់ស្តែងប៉ុន្មាន សម្រាប់ឆ្នាំ២០២៣?",
+    "doc_id": "2023-state-settlement-revenue"
+  },
+  {
+    "question": "What is the planned expenditure of Ministry of Education, Youth and Sport in 2024?",
+    "doc_id": "2024-moeys-budget-expenditure"
+  },
+  {
+    "question": "តើក្រសួងអប់រំ យុវជន និងកីឡាមានថវិកាគ្រោងចំណាយប៉ុន្មាន សម្រាប់ឆ្នាំ២០២៤?",
+    "doc_id": "2024-moeys-budget-expenditure"
+  },
+  {
+    "question": "What is the actual expenditure of Ministry of Education, Youth and Sport in 2024?",
+    "doc_id": "2024-moeys-settlement-expenditure"
+  },
+  {
+    "question": "តើក្រសួងអប់រំ យុវជន និងកីឡាមានចំណាយជាក់ស្តែងប៉ុន្មាន សម្រាប់ឆ្នាំ២០២៤?",
+    "doc_id": "2024-moeys-settlement-expenditure"
+  },
+  {
+    "question": "What is the planned expenditure of Ministry of Health in 2024?",
+    "doc_id": "2024-moh-budget-expenditure"
+  },
+  {
+    "question": "តើក្រសួងសុខាភិបាលមានថវិកាគ្រោងចំណាយប៉ុន្មាន សម្រាប់ឆ្នាំ២០២៤?",
+    "doc_id": "2024-moh-budget-expenditure"
+  },
+  {
+    "question": "What is the actual expenditure of Ministry of Health in 2024?",
+    "doc_id": "2024-moh-settlement-expenditure"
+  },
+  {
+    "question": "តើក្រសួងសុខាភិបាលមានចំណាយជាក់ស្តែងប៉ុន្មាន សម្រាប់ឆ្នាំ២០២៤?",
+    "doc_id": "2024-moh-settlement-expenditure"
+  },
+  {
+    "question": "What is the planned expenditure of Ministry of Public Works and Transport in 2024?",
+    "doc_id": "2024-mpwt-budget-expenditure"
+  },
+  {
+    "question": "តើក្រសួងសាធារណការ និងដឹកជញ្ជូនមានថវិកាគ្រោងចំណាយប៉ុន្មាន សម្រាប់ឆ្នាំ២០២៤?",
+    "doc_id": "2024-mpwt-budget-expenditure"
+  },
+  {
+    "question": "What is the planned revenue of Ministry of Public Works and Transport in 2024?",
+    "doc_id": "2024-mpwt-budget-revenue"
+  },
+  {
+    "question": "តើក្រសួងសាធារណការ និងដឹកជញ្ជូនមានចំណូលគ្រោងប្រមូលប៉ុន្មាន សម្រាប់ឆ្នាំ២០២៤?",
+    "doc_id": "2024-mpwt-budget-revenue"
+  },
+  {
+    "question": "What is the actual expenditure of Ministry of Public Works and Transport in 2024?",
+    "doc_id": "2024-mpwt-settlement-expenditure"
+  },
+  {
+    "question": "តើក្រសួងសាធារណការ និងដឹកជញ្ជូនមានចំណាយជាក់ស្តែងប៉ុន្មាន សម្រាប់ឆ្នាំ២០២៤?",
+    "doc_id": "2024-mpwt-settlement-expenditure"
+  },
+  {
+    "question": "What is the actual revenue collected of Ministry of Public Works and Transport in 2024?",
+    "doc_id": "2024-mpwt-settlement-revenue"
+  },
+  {
+    "question": "តើក្រសួងសាធារណការ និងដឹកជញ្ជូនមានចំណូលប្រមូលបានជាក់ស្តែងប៉ុន្មាន សម្រាប់ឆ្នាំ២០២៤?",
+    "doc_id": "2024-mpwt-settlement-revenue"
+  },
+  {
+    "question": "What is the planned expenditure of State budget (total) in 2024?",
+    "doc_id": "2024-state-budget-expenditure"
+  },
+  {
+    "question": "តើថវិការដ្ឋមានថវិកាគ្រោងចំណាយប៉ុន្មាន សម្រាប់ឆ្នាំ២០២៤?",
+    "doc_id": "2024-state-budget-expenditure"
+  },
+  {
+    "question": "What is the planned revenue of State budget (total) in 2024?",
+    "doc_id": "2024-state-budget-revenue"
+  },
+  {
+    "question": "តើថវិការដ្ឋមានចំណូលគ្រោងប្រមូលប៉ុន្មាន សម្រាប់ឆ្នាំ២០២៤?",
+    "doc_id": "2024-state-budget-revenue"
+  },
+  {
+    "question": "What is the actual expenditure of State budget (total) in 2024?",
+    "doc_id": "2024-state-settlement-expenditure"
+  },
+  {
+    "question": "តើថវិការដ្ឋមានចំណាយជាក់ស្តែងប៉ុន្មាន សម្រាប់ឆ្នាំ២០២៤?",
+    "doc_id": "2024-state-settlement-expenditure"
+  },
+  {
+    "question": "What is the actual revenue collected of State budget (total) in 2024?",
+    "doc_id": "2024-state-settlement-revenue"
+  },
+  {
+    "question": "តើថវិការដ្ឋមានចំណូលប្រមូលបានជាក់ស្តែងប៉ុន្មាន សម្រាប់ឆ្នាំ២០២៤?",
+    "doc_id": "2024-state-settlement-revenue"
+  },
+  {
+    "question": "How much did Ministry of Education, Youth and Sport actually spend in 2023 compared to the budget (execution rate)?",
+    "doc_id": "2023-moeys-execution"
+  },
+  {
+    "question": "តើក្រសួងអប់រំ យុវជន និងកីឡាអនុវត្តថវិកាជាក់ស្តែងបានប៉ុន្មាន ធៀបនឹងថវិកាគ្រោង ក្នុងឆ្នាំ២០២៣?",
+    "doc_id": "2023-moeys-execution"
+  },
+  {
+    "question": "Ministry of Education, Youth and Sport budget execution rate 2023",
+    "doc_id": "2023-moeys-execution"
+  },
+  {
+    "question": "How much did Ministry of Health actually spend in 2023 compared to the budget (execution rate)?",
+    "doc_id": "2023-moh-execution"
+  },
+  {
+    "question": "តើក្រសួងសុខាភិបាលអនុវត្តថវិកាជាក់ស្តែងបានប៉ុន្មាន ធៀបនឹងថវិកាគ្រោង ក្នុងឆ្នាំ២០២៣?",
+    "doc_id": "2023-moh-execution"
+  },
+  {
+    "question": "Ministry of Health budget execution rate 2023",
+    "doc_id": "2023-moh-execution"
+  },
+  {
+    "question": "How much did Ministry of Public Works and Transport actually spend in 2023 compared to the budget (execution rate)?",
+    "doc_id": "2023-mpwt-execution"
+  },
+  {
+    "question": "តើក្រសួងសាធារណការ និងដឹកជញ្ជូនអនុវត្តថវិកាជាក់ស្តែងបានប៉ុន្មាន ធៀបនឹងថវិកាគ្រោង ក្នុងឆ្នាំ២០២៣?",
+    "doc_id": "2023-mpwt-execution"
+  },
+  {
+    "question": "Ministry of Public Works and Transport budget execution rate 2023",
+    "doc_id": "2023-mpwt-execution"
+  },
+  {
+    "question": "How much did State budget (total) actually spend in 2023 compared to the budget (execution rate)?",
+    "doc_id": "2023-state-execution"
+  },
+  {
+    "question": "តើថវិការដ្ឋអនុវត្តថវិកាជាក់ស្តែងបានប៉ុន្មាន ធៀបនឹងថវិកាគ្រោង ក្នុងឆ្នាំ២០២៣?",
+    "doc_id": "2023-state-execution"
+  },
+  {
+    "question": "State budget (total) budget execution rate 2023",
+    "doc_id": "2023-state-execution"
+  },
+  {
+    "question": "How much did Ministry of Education, Youth and Sport actually spend in 2024 compared to the budget (execution rate)?",
+    "doc_id": "2024-moeys-execution"
+  },
+  {
+    "question": "តើក្រសួងអប់រំ យុវជន និងកីឡាអនុវត្តថវិកាជាក់ស្តែងបានប៉ុន្មាន ធៀបនឹងថវិកាគ្រោង ក្នុងឆ្នាំ២០២៤?",
+    "doc_id": "2024-moeys-execution"
+  },
+  {
+    "question": "Ministry of Education, Youth and Sport budget execution rate 2024",
+    "doc_id": "2024-moeys-execution"
+  },
+  {
+    "question": "How much did Ministry of Health actually spend in 2024 compared to the budget (execution rate)?",
+    "doc_id": "2024-moh-execution"
+  },
+  {
+    "question": "តើក្រសួងសុខាភិបាលអនុវត្តថវិកាជាក់ស្តែងបានប៉ុន្មាន ធៀបនឹងថវិកាគ្រោង ក្នុងឆ្នាំ២០២៤?",
+    "doc_id": "2024-moh-execution"
+  },
+  {
+    "question": "Ministry of Health budget execution rate 2024",
+    "doc_id": "2024-moh-execution"
+  },
+  {
+    "question": "How much did Ministry of Public Works and Transport actually spend in 2024 compared to the budget (execution rate)?",
+    "doc_id": "2024-mpwt-execution"
+  },
+  {
+    "question": "តើក្រសួងសាធារណការ និងដឹកជញ្ជូនអនុវត្តថវិកាជាក់ស្តែងបានប៉ុន្មាន ធៀបនឹងថវិកាគ្រោង ក្នុងឆ្នាំ២០២៤?",
+    "doc_id": "2024-mpwt-execution"
+  },
+  {
+    "question": "Ministry of Public Works and Transport budget execution rate 2024",
+    "doc_id": "2024-mpwt-execution"
+  },
+  {
+    "question": "How much did State budget (total) actually spend in 2024 compared to the budget (execution rate)?",
+    "doc_id": "2024-state-execution"
+  },
+  {
+    "question": "តើថវិការដ្ឋអនុវត្តថវិកាជាក់ស្តែងបានប៉ុន្មាន ធៀបនឹងថវិកាគ្រោង ក្នុងឆ្នាំ២០២៤?",
+    "doc_id": "2024-state-execution"
+  },
+  {
+    "question": "State budget (total) budget execution rate 2024",
+    "doc_id": "2024-state-execution"
+  },
+  {
+    "question": "How did the budget of Ministry of Education, Youth and Sport change from 2023 to 2024?",
+    "doc_id": "2024-moeys-growth"
+  },
+  {
+    "question": "តើថវិការបស់ក្រសួងអប់រំ យុវជន និងកីឡា ឆ្នាំ២០២៤ ប្រែប្រួលយ៉ាងដូចម្តេច ធៀបនឹងឆ្នាំ២០២៣?",
+    "doc_id": "2024-moeys-growth"
+  },
+  {
+    "question": "How did the budget of Ministry of Health change from 2023 to 2024?",
+    "doc_id": "2024-moh-growth"
+  },
+  {
+    "question": "តើថវិការបស់ក្រសួងសុខាភិបាល ឆ្នាំ២០២៤ ប្រែប្រួលយ៉ាងដូចម្តេច ធៀបនឹងឆ្នាំ២០២៣?",
+    "doc_id": "2024-moh-growth"
+  },
+  {
+    "question": "How did the budget of Ministry of Public Works and Transport change from 2023 to 2024?",
+    "doc_id": "2024-mpwt-growth"
+  },
+  {
+    "question": "តើថវិការបស់ក្រសួងសាធារណការ និងដឹកជញ្ជូន ឆ្នាំ២០២៤ ប្រែប្រួលយ៉ាងដូចម្តេច ធៀបនឹងឆ្នាំ២០២៣?",
+    "doc_id": "2024-mpwt-growth"
+  },
+  {
+    "question": "How did the budget of State budget (total) change from 2023 to 2024?",
+    "doc_id": "2024-state-growth"
+  },
+  {
+    "question": "តើថវិការបស់ថវិការដ្ឋ ឆ្នាំ២០២៤ ប្រែប្រួលយ៉ាងដូចម្តេច ធៀបនឹងឆ្នាំ២០២៣?",
+    "doc_id": "2024-state-growth"
+  },
+  {
+    "question": "What share of GDP is the 2023 budget of Ministry of Education, Youth and Sport?",
+    "doc_id": "2023-moeys-gdp"
+  },
+  {
+    "question": "តើថវិការបស់ក្រសួងអប់រំ យុវជន និងកីឡា ឆ្នាំ២០២៣ ស្មើនឹងប៉ុន្មានភាគរយនៃ ផ.ស.ស?",
+    "doc_id": "2023-moeys-gdp"
+  },
+  {
+    "question": "Ministry of Education, Youth and Sport budget as percentage of GDP 2023",
+    "doc_id": "2023-moeys-gdp"
+  },
+  {
+    "question": "What share of GDP is the 2023 budget of Ministry of Health?",
+    "doc_id": "2023-moh-gdp"
+  },
+  {
+    "question": "តើថវិការបស់ក្រសួងសុខាភិបាល ឆ្នាំ២០២៣ ស្មើនឹងប៉ុន្មានភាគរយនៃ ផ.ស.ស?",
+    "doc_id": "2023-moh-gdp"
+  },
+  {
+    "question": "Ministry of Health budget as percentage of GDP 2023",
+    "doc_id": "2023-moh-gdp"
+  },
+  {
+    "question": "What share of GDP is the 2023 budget of Ministry of Public Works and Transport?",
+    "doc_id": "2023-mpwt-gdp"
+  },
+  {
+    "question": "តើថវិការបស់ក្រសួងសាធារណការ និងដឹកជញ្ជូន ឆ្នាំ២០២៣ ស្មើនឹងប៉ុន្មានភាគរយនៃ ផ.ស.ស?",
+    "doc_id": "2023-mpwt-gdp"
+  },
+  {
+    "question": "Ministry of Public Works and Transport budget as percentage of GDP 2023",
+    "doc_id": "2023-mpwt-gdp"
+  },
+  {
+    "question": "What share of GDP is the 2023 budget of State budget (total)?",
+    "doc_id": "2023-state-gdp"
+  },
+  {
+    "question": "តើថវិការបស់ថវិការដ្ឋ ឆ្នាំ២០២៣ ស្មើនឹងប៉ុន្មានភាគរយនៃ ផ.ស.ស?",
+    "doc_id": "2023-state-gdp"
+  },
+  {
+    "question": "State budget (total) budget as percentage of GDP 2023",
+    "doc_id": "2023-state-gdp"
+  },
+  {
+    "question": "What share of GDP is the 2024 budget of Ministry of Education, Youth and Sport?",
+    "doc_id": "2024-moeys-gdp"
+  },
+  {
+    "question": "តើថវិការបស់ក្រសួងអប់រំ យុវជន និងកីឡា ឆ្នាំ២០២៤ ស្មើនឹងប៉ុន្មានភាគរយនៃ ផ.ស.ស?",
+    "doc_id": "2024-moeys-gdp"
+  },
+  {
+    "question": "Ministry of Education, Youth and Sport budget as percentage of GDP 2024",
+    "doc_id": "2024-moeys-gdp"
+  },
+  {
+    "question": "What share of GDP is the 2024 budget of Ministry of Health?",
+    "doc_id": "2024-moh-gdp"
+  },
+  {
+    "question": "តើថវិការបស់ក្រសួងសុខាភិបាល ឆ្នាំ២០២៤ ស្មើនឹងប៉ុន្មានភាគរយនៃ ផ.ស.ស?",
+    "doc_id": "2024-moh-gdp"
+  },
+  {
+    "question": "Ministry of Health budget as percentage of GDP 2024",
+    "doc_id": "2024-moh-gdp"
+  },
+  {
+    "question": "What share of GDP is the 2024 budget of Ministry of Public Works and Transport?",
+    "doc_id": "2024-mpwt-gdp"
+  },
+  {
+    "question": "តើថវិការបស់ក្រសួងសាធារណការ និងដឹកជញ្ជូន ឆ្នាំ២០២៤ ស្មើនឹងប៉ុន្មានភាគរយនៃ ផ.ស.ស?",
+    "doc_id": "2024-mpwt-gdp"
+  },
+  {
+    "question": "Ministry of Public Works and Transport budget as percentage of GDP 2024",
+    "doc_id": "2024-mpwt-gdp"
+  },
+  {
+    "question": "What share of GDP is the 2024 budget of State budget (total)?",
+    "doc_id": "2024-state-gdp"
+  },
+  {
+    "question": "តើថវិការបស់ថវិការដ្ឋ ឆ្នាំ២០២៤ ស្មើនឹងប៉ុន្មានភាគរយនៃ ផ.ស.ស?",
+    "doc_id": "2024-state-gdp"
+  },
+  {
+    "question": "State budget (total) budget as percentage of GDP 2024",
+    "doc_id": "2024-state-gdp"
+  },
+  {
+    "question": "What is Cambodia's GDP in 2023?",
+    "doc_id": "2023-macro-gdp"
+  },
+  {
+    "question": "តើផលិតផលក្នុងស្រុកសរុប (ផ.ស.ស) ឆ្នាំ២០២៣ មានប៉ុន្មាន?",
+    "doc_id": "2023-macro-gdp"
+  },
+  {
+    "question": "What is Cambodia's GDP in 2024?",
+    "doc_id": "2024-macro-gdp"
+  },
+  {
+    "question": "តើផលិតផលក្នុងស្រុកសរុប (ផ.ស.ស) ឆ្នាំ២០២៤ មានប៉ុន្មាន?",
+    "doc_id": "2024-macro-gdp"
+  },
+  {
+    "question": "Which ministries have the largest budget in 2023?",
+    "doc_id": "2023-all-ranking-budget"
+  },
+  {
+    "question": "តើក្រសួង-ស្ថាប័នណាខ្លះមានថវិកាគ្រោងចំណាយច្រើនជាងគេ ក្នុងឆ្នាំ២០២៣?",
+    "doc_id": "2023-all-ranking-budget"
+  },
+  {
+    "question": "Which ministries had the highest and lowest budget execution rate in 2023?",
+    "doc_id": "2023-all-ranking-execution"
+  },
+  {
+    "question": "តើក្រសួង-ស្ថាប័នណាអនុវត្តថវិកាបានខ្ពស់ជាងគេ និងទាបជាងគេ ក្នុងឆ្នាំ២០២៣?",
+    "doc_id": "2023-all-ranking-execution"
+  },
+  {
+    "question": "Which ministries have the largest budget in 2024?",
+    "doc_id": "2024-all-ranking-budget"
+  },
+  {
+    "question": "តើក្រសួង-ស្ថាប័នណាខ្លះមានថវិកាគ្រោងចំណាយច្រើនជាងគេ ក្នុងឆ្នាំ២០២៤?",
+    "doc_id": "2024-all-ranking-budget"
+  },
+  {
+    "question": "Which ministries had the highest and lowest budget execution rate in 2024?",
+    "doc_id": "2024-all-ranking-execution"
+  },
+  {
+    "question": "តើក្រសួង-ស្ថាប័នណាអនុវត្តថវិកាបានខ្ពស់ជាងគេ និងទាបជាងគេ ក្នុងឆ្នាំ២០២៤?",
+    "doc_id": "2024-all-ranking-execution"
+  }
+]

@@ -1,0 +1,69 @@
+variant,question,answer,judge,explanation,number_check,missing_numbers,response_time,cost
+basic prompt (course project),How much ក្រសួងសាធារណការ និងដឹកជញ្ជូន budget planning in 2024?,"The planned (budget‑planned) expenditure of **ក្រសួងសាធារណការ និងដឹកជញ្ជូន** (Ministry of Public Works and Transport) for 2024 is **1,520,000,000,000 riel**.",CORRECT,"The answer correctly states the planned 2024 expenditure of 1,520,000,000,000 riel, matching the source document.",OK,,5.67,0.00025709999999999996
+basic prompt (course project),How much ក្រសួងសាធារណការ និងដឹកជញ្ជូន actual in 2024?,"The actual expenditure of **ក្រសួងសាធារណការ និងដឹកជញ្ជូន (Ministry of Public Works and Transport)** in 2024 was **1,519,700,000,000 រៀល**.",CORRECT,"The answer correctly states the actual expenditure for 2024 as 1,519,700,000,000 riel, matching the figures in the provided documents.",OK,,0.76,0.00026325
+basic prompt (course project),ថវិកាក្រសួងសុខាភិបាល ឆ្នាំ២០២៤,"ថវិកាគ្រោងចំណាយរបស់ក្រសួងសុខាភិបាល សម្រាប់ឆ្នាំ ២០២៤ គឺ **៣,៣៥០,០០០,០០០,០០០ រៀល**.",CORRECT,"The answer correctly states the planned 2024 budget for the Ministry of Health as 3,350,000,000,000 riel, matching the source documents.",OK,,0.79,0.0002682
+basic prompt (course project),ក្រសួងអប់រំ ចំណាយជាក់ស្តែង ២០២៣,"ចំណាយជាក់ស្តែងរបស់ក្រសួងអប់រំ យុវជន និងកីឡា​សម្រាប់ឆ្នាំ​២០២៣ គឺ **4,210,000,000,000** រៀល។",CORRECT,"The answer gives the exact actual expenditure (4,210,000,000,000 riel) as stated in the source documents.",OK,,10.11,0.0002556
+basic prompt (course project),MoEYS spending 2024 vs plan,"**Ministry of Education, Youth and Sport (MoEYS) – 2024**
+
+| Item | Amount (riel) | Notes |
+|------|---------------|-------|
+| **Planned (budgeted) expenditure** | **4,650,000,000,000** | Set in the 2024 budget law (table 3.20). |
+| **Actual (settlement) expenditure** | **4,480,000,000,000** | Recorded in the 2024 settlement law (section 4.2). |
+| **Execution rate** | **96.34 %** | Actual spending is about 170 billion riel less than planned, giving an execution rate of 96.34 %. |
+
+So, MoEYS spent **4.48 trillion riel** in 2024, which is **96.34 %** of the **4.65 trillion riel** budgeted for the year.",CORRECT,The answer correctly lists the planned and actual expenditures and the execution rate exactly as stated in the source documents.,MISMATCH,"170, 4.48, 4.65",8.39,0.00032760000000000005
+basic prompt (course project),health ministry budget percent of GDP 2023,The Ministry of Health’s planned budget for 2023 was **1.80 % of Cambodia’s Gross Domestic Product (GDP)**.,CORRECT,"The answer correctly states that the Ministry of Health's planned 2023 budget is 1.80% of GDP, matching the source document.",OK,,8.01,0.00021285
+basic prompt (course project),How much revenue did public works collect in 2023?,"The Ministry of Public Works and Transport actually collected **225,000,000,000 riel** in revenue for 2023.",CORRECT,"The answer correctly states the actual revenue collected by the Ministry of Public Works and Transport in 2023 as 225,000,000,000 riel, matching the source documents.",OK,,10.08,0.0002166
+basic prompt (course project),total state budget 2024,"The State budget (total) for 2024 is **34,800,000,000,000 riel** (≈ US $8.57 billion) as the planned total expenditure for the year.  
+
+*Source: budget‑law‑2024.pdf (article‑2)*.",CORRECT,"The answer correctly states the planned total expenditure for 2024 as 34,800,000,000,000 riel, matching the source document.",OK,,7.21,0.00023055
+basic prompt (course project),ផ.ស.ស ២០២៤,"ផ.ស.ស (ផលិតផលក្នុងស្រុកសរុប) ឆ្នាំ ២០២៤ គឺ **១៨៣,០០០,០០០,០០០,០០០ រៀល** (ប្រហែល ៤៥,០៧ ពាន់លាន​ដុល្លារ​អាមេរិក)។",CORRECT,"The answer correctly states the 2024 GDP as 183,000,000,000,000 riel, matching the source documents.",MISMATCH,4507,12.11,0.00029519999999999997
+basic prompt (course project),which ministry got the most money in 2024,"The ministry with the largest planned budget in 2024 is the **Ministry of Education, Youth and Sport**, which received **4,650,000,000,000 riel**.",CORRECT,"The answer correctly identifies the Ministry of Education, Youth and Sport as having the highest planned expenditure in 2024 with 4,650,000,000,000 riel, matching the source document.",OK,,10.16,0.00022544999999999998
+budget prompt (used),How much ក្រសួងសាធារណការ និងដឹកជញ្ជូន budget planning in 2024?,"ឆ្នាំ ២០២៤ ក្រសួងសាធារណការ និងដឹកជញ្ជូន​ ថវិកាគ្រោងចំណាយ​ សម្រាប់ឆ្នាំ​ ២០២៤​ គឺ **១,៥២០,០០០,០០០,០០០​ រៀល** (​planned​) ។  
+
+ប្រភព​៖ budget‑law‑2024.pdf (table‑3.12)",CORRECT,"The answer gives the planned expenditure of 1,520,000,000,000 riel for 2024, exactly matching the source document.",OK,,10.33,0.00035985000000000005
+budget prompt (used),How much ក្រសួងសាធារណការ និងដឹកជញ្ជូន actual in 2024?,"ឆ្នាំ ២០២៤, ក្រសួងសាធារណការ និងដឹកជញ្ជូន, ចំណាយជាក់ស្តែង​ ១,៥១៩,៧០០,០០០,០០០ រៀល (actual)  
+**Source:** settlement-state-2024.pdf (section‑4.2)",CORRECT,"The answer provides the exact actual expenditure (1,519,700,000,000 riel) matching the source documents.",OK,,10.41,0.0003576
+budget prompt (used),ថវិកាក្រសួងសុខាភិបាល ឆ្នាំ២០២៤,"**Year:** 2024  
+**Ministry / Institution:** ក្រសួងសុខាភិបាល (Ministry of Health)  
+**Unit:** រៀល (riel)  
+
+**Planned budget (budget law):** 3,350,000,000,000 riel  
+
+*Source: budget-law-2024.pdf (table‑3.21)*",CORRECT,"The answer correctly states the 2024 planned budget for the Ministry of Health as 3,350,000,000,000 riel, matching the source documents.",OK,,7.58,0.00035414999999999996
+budget prompt (used),ក្រសួងអប់រំ ចំណាយជាក់ស្តែង ២០២៣,"ឆ្នាំ ២០២៣ ក្រសួងអប់រំ យុវជន និងកីឡា ចំណាយជាក់ស្តែង​ ៤,២១០,០០០,០០០,០០០ រៀល (actual, settlement law)។  
+ប្រភព : settlement-state-2023.pdf (section‑4.2)",CORRECT,"The answer provides the exact actual expenditure (4,210,000,000,000 riel) for the Ministry of Education, Youth and Sport in 2023 as stated in the settlement document, with correct source citation.",OK,,10.2,0.00032355
+budget prompt (used),MoEYS spending 2024 vs plan,"**Year:** 2024  
+**Ministry:** Ministry of Education, Youth and Sport (MoEYS)  
+**Unit:** riel  
+
+- **Planned expenditure (budget law):** 4,650,000,000,000 riel  
+- **Actual expenditure (settlement law):** 4,480,000,000,000 riel  
+
+The actual spending equals **96.34 %** of the planned amount, representing a shortfall of **170,000,000,000 riel**.
+
+**Source:** budget-law-2024.pdf (table‑3.20); settlement-state-2024.pdf (section‑4.2)",CORRECT,"The answer lists the planned and actual expenditures for MoEYS in 2024 exactly as given in the source documents, including the correct execution rate and shortfall.",OK,,10.5,0.00040454999999999994
+budget prompt (used),health ministry budget percent of GDP 2023,"**Year:** 2023  
+**Ministry/Institution:** Ministry of Health  
+**Planned expenditure:** 3,100,000,000,000 riel  
+**Share of GDP:** 1.80 % of the Gross Domestic Product (GDP) of 172,000,000,000,000 riel  
+
+**Source:** budget-law-2023.pdf (table‑3.21); budget-law-2023.pdf (article‑2); macro‑framework‑2024.pdf (table‑1)",CORRECT,"The answer correctly states that the Ministry of Health's planned 2023 expenditure of 3.1 trillion riel represents 1.80 % of the 2023 GDP, matching the source documents.",OK,,9.32,0.0003414
+budget prompt (used),How much revenue did public works collect in 2023?,"In 2023, the Ministry of Public Works and Transport **actually collected** revenue of **225,000,000,000 riel**.
+
+Source: settlement-state-2023.pdf (section‑3.4)",CORRECT,"The answer correctly states the actual 2023 revenue collected by the Ministry of Public Works and Transport as 225,000,000,000 riel, matching the source document.",OK,,10.12,0.00030014999999999995
+budget prompt (used),total state budget 2024,"**2024 – State budget (total)**  
+
+- **Planned (budget law) expenditure:** 34,800,000,000,000 riel.  
+- **Actual (settlement law) expenditure:** 33,100,000,000,000 riel.  
+
+*Source: budget‑law‑2024.pdf (article‑2); settlement‑state‑2024.pdf (section‑2).*",CORRECT,"The answer provides the planned and actual expenditure figures for the 2024 State budget, matching the values in the source documents.",OK,,9.11,0.00032910000000000003
+budget prompt (used),ផ.ស.ស ២០២៤,"ឆ្នាំ​2024 — ​ផលិតផលក្នុងស្រុកសរុប (ផ.ស.ស)​៖ 183,000,000,000,000 រៀល (​ជា​GDP​)  
+*​គេហទំព័រ​/ឯកសារ​:* macro-framework-2025.pdf (table‑1)",CORRECT,"The answer provides the exact 2024 GDP value (183,000,000,000,000 riel) as stated in the source and cites the correct document.",OK,,10.54,0.00040994999999999996
+budget prompt (used),which ministry got the most money in 2024,"The ministry with the largest planned budget in 2024 was the **Ministry of Education, Youth and Sport**.  
+
+- **Year:** 2024  
+- **Ministry:** Ministry of Education, Youth and Sport  
+- **Planned expenditure:** 4,650,000,000,000 riel (budget law)  
+
+**Source:** budget-law-2024.pdf (table‑3.20)",CORRECT,"The answer correctly identifies the Ministry of Education, Youth and Sport as having the highest planned budget in 2024 with the correct amount, matching the source ranking.",OK,,11.23,0.00030960000000000004

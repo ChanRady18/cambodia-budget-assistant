@@ -1,0 +1,25 @@
+budget_year,bu_code,bu_kh,bu_en,type,metric,amount_riel,file_ref,file_section
+2023,STATE,ថវិការដ្ឋ,State budget (total),budget,expenditure,32500000000000,budget-law-2023.pdf,article-2
+2023,STATE,ថវិការដ្ឋ,State budget (total),budget,revenue,26800000000000,budget-law-2023.pdf,article-1
+2023,STATE,ថវិការដ្ឋ,State budget (total),settlement,expenditure,30900000000000,settlement-state-2023.pdf,section-2
+2023,STATE,ថវិការដ្ឋ,State budget (total),settlement,revenue,27400000000000,settlement-state-2023.pdf,section-1
+2023,MPWT,ក្រសួងសាធារណការ និងដឹកជញ្ជូន,Ministry of Public Works and Transport,budget,expenditure,1450000000000,budget-law-2023.pdf,table-3.12
+2023,MPWT,ក្រសួងសាធារណការ និងដឹកជញ្ជូន,Ministry of Public Works and Transport,budget,revenue,210000000000,budget-law-2023.pdf,table-2.4
+2023,MPWT,ក្រសួងសាធារណការ និងដឹកជញ្ជូន,Ministry of Public Works and Transport,settlement,expenditure,1380000000000,settlement-state-2023.pdf,section-4.2
+2023,MPWT,ក្រសួងសាធារណការ និងដឹកជញ្ជូន,Ministry of Public Works and Transport,settlement,revenue,225000000000,settlement-state-2023.pdf,section-3.4
+2023,MOEYS,ក្រសួងអប់រំ យុវជន និងកីឡា,"Ministry of Education, Youth and Sport",budget,expenditure,4300000000000,budget-law-2023.pdf,table-3.20
+2023,MOEYS,ក្រសួងអប់រំ យុវជន និងកីឡា,"Ministry of Education, Youth and Sport",settlement,expenditure,4210000000000,settlement-state-2023.pdf,section-4.2
+2023,MOH,ក្រសួងសុខាភិបាល,Ministry of Health,budget,expenditure,3100000000000,budget-law-2023.pdf,table-3.21
+2023,MOH,ក្រសួងសុខាភិបាល,Ministry of Health,settlement,expenditure,2950000000000,settlement-state-2023.pdf,section-4.2
+2024,STATE,ថវិការដ្ឋ,State budget (total),budget,expenditure,34800000000000,budget-law-2024.pdf,article-2
+2024,STATE,ថវិការដ្ឋ,State budget (total),budget,revenue,28600000000000,budget-law-2024.pdf,article-1
+2024,STATE,ថវិការដ្ឋ,State budget (total),settlement,expenditure,33100000000000,settlement-state-2024.pdf,section-2
+2024,STATE,ថវិការដ្ឋ,State budget (total),settlement,revenue,29100000000000,settlement-state-2024.pdf,section-1
+2024,MPWT,ក្រសួងសាធារណការ និងដឹកជញ្ជូន,Ministry of Public Works and Transport,budget,expenditure,1520000000000,budget-law-2024.pdf,table-3.12
+2024,MPWT,ក្រសួងសាធារណការ និងដឹកជញ្ជូន,Ministry of Public Works and Transport,budget,revenue,230000000000,budget-law-2024.pdf,table-2.4
+2024,MPWT,ក្រសួងសាធារណការ និងដឹកជញ្ជូន,Ministry of Public Works and Transport,settlement,expenditure,1519700000000,settlement-state-2024.pdf,section-4.2
+2024,MPWT,ក្រសួងសាធារណការ និងដឹកជញ្ជូន,Ministry of Public Works and Transport,settlement,revenue,241000000000,settlement-state-2024.pdf,section-3.4
+2024,MOEYS,ក្រសួងអប់រំ យុវជន និងកីឡា,"Ministry of Education, Youth and Sport",budget,expenditure,4650000000000,budget-law-2024.pdf,table-3.20
+2024,MOEYS,ក្រសួងអប់រំ យុវជន និងកីឡា,"Ministry of Education, Youth and Sport",settlement,expenditure,4480000000000,settlement-state-2024.pdf,section-4.2
+2024,MOH,ក្រសួងសុខាភិបាល,Ministry of Health,budget,expenditure,3350000000000,budget-law-2024.pdf,table-3.21
+2024,MOH,ក្រសួងសុខាភិបាល,Ministry of Health,settlement,expenditure,3290000000000,settlement-state-2024.pdf,section-4.2
